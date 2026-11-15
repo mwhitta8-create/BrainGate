@@ -1,0 +1,73 @@
+code,on_grid,grid_row,grid_col,airline_code,airline,flight_number,origin_iata,origin_city,dest_iata,dest_city,dest_tz,dep_terminal,dep_gate,status,delay_min,dep_in_min,boarding_min_before,gate_close_min_before,distance_mi,duration_min,aircraft,meal_service,wifi,arr_terminal,baggage_claim
+AA101,yes,0,0,AA,American Airlines,101,DTW,Detroit,BOS,Boston,America/New_York,North,N27,On time,0,85,40,15,632,115,Airbus A321,Beverages & snacks,No,2,12
+DL202,yes,0,1,DL,Delta Air Lines,202,DTW,Detroit,IAH,Houston,America/Chicago,McNamara,A8,Delayed,25,210,35,15,1076,175,Boeing 757-300,Snacks & drinks,Yes,A,9
+UA303,yes,0,2,UA,United Airlines,303,DTW,Detroit,DEN,Denver,America/Denver,North,N18,On time,0,140,35,15,1123,180,Boeing 737 MAX 8,Snacks & drinks,Yes,D,13
+WN404,yes,0,3,WN,Southwest Airlines,404,DTW,Detroit,MSP,Minneapolis,America/Chicago,North,N7,Boarding,0,24,30,10,528,100,Boeing 737-800,Beverages & snacks,Yes,1,1
+B6505,yes,0,4,B6,JetBlue,505,DTW,Detroit,RDU,Raleigh,America/New_York,North,N15,On time,0,235,35,15,510,95,Embraer E190,Beverages & snacks,No,B,4
+AS606,yes,0,5,AS,Alaska Airlines,606,DTW,Detroit,AUS,Austin,America/Chicago,North,N15,On time,0,200,35,15,1190,190,Boeing 737 MAX 9,Snacks & drinks,Yes,D,13
+DL707,yes,1,0,DL,Delta Air Lines,707,DTW,Detroit,JFK,New York,America/New_York,McNamara,B21,On time,0,55,35,15,483,95,Boeing 757-300,Beverages & snacks,No,2,8
+AA808,yes,1,1,AA,American Airlines,808,DTW,Detroit,SFO,San Francisco,America/Los_Angeles,North,N15,Delayed,55,140,40,15,2081,310,Airbus A321,Meal service,No,D,2
+UA909,yes,1,2,UA,United Airlines,909,DTW,Detroit,ORD,Chicago,America/Chicago,North,N7,Delayed,25,90,35,15,235,60,Boeing 737 MAX 8,Beverages & snacks,No,3,8
+WN110,yes,1,3,WN,Southwest Airlines,110,DTW,Detroit,ATL,Atlanta,America/New_York,North,N1,Boarding,0,19,30,10,594,110,Boeing 737-800,Beverages & snacks,Yes,2,10
+DL111,yes,1,4,DL,Delta Air Lines,111,DTW,Detroit,SLC,Salt Lake City,America/Denver,McNamara,C18,Delayed,15,70,35,15,1445,225,Airbus A220-300,Snacks & drinks,Yes,B,11
+B6112,yes,1,5,B6,JetBlue,112,DTW,Detroit,PHL,Philadelphia,America/New_York,North,N18,Delayed,55,100,35,15,453,90,Airbus A320,Beverages & snacks,Yes,3,10
+AS113,yes,2,0,AS,Alaska Airlines,113,DTW,Detroit,SEA,Seattle,America/Los_Angeles,North,N10,Boarding,0,31,35,15,1925,290,Boeing 737-800,Meal service,Yes,3,3
+AA114,yes,2,1,AA,American Airlines,114,DTW,Detroit,LAS,Las Vegas,America/Los_Angeles,North,N14,Delayed,30,220,40,15,1750,265,Boeing 737-800,Meal service,Yes,4,7
+UA115,yes,2,2,UA,United Airlines,115,DTW,Detroit,MCO,Orlando,America/New_York,North,N13,On time,0,75,35,15,962,160,Boeing 737-900,Snacks & drinks,Yes,B,11
+WN116,yes,2,3,WN,Southwest Airlines,116,DTW,Detroit,PHX,Phoenix,America/Phoenix,North,N1,On time,0,50,30,10,1670,255,Boeing 737 MAX 8,Meal service,Yes,A,8
+DL117,yes,2,4,DL,Delta Air Lines,117,DTW,Detroit,MIA,Miami,America/New_York,McNamara,B30,On time,0,80,35,15,1145,185,Boeing 737-900,Snacks & drinks,Yes,4,7
+B6118,yes,2,5,B6,JetBlue,118,DTW,Detroit,CLT,Charlotte,America/New_York,North,N22,Delayed,25,130,35,15,535,100,Embraer E190,Beverages & snacks,Yes,C,1
+AS119,yes,3,0,AS,Alaska Airlines,119,DTW,Detroit,LAX,Los Angeles,America/Los_Angeles,North,N2,On time,0,100,35,15,1979,295,Boeing 737 MAX 9,Meal service,Yes,1,8
+AA120,yes,3,1,AA,American Airlines,120,DTW,Detroit,BNA,Nashville,America/Chicago,North,N16,Boarding,0,29,40,15,461,90,Airbus A319,Beverages & snacks,Yes,1,3
+UA121,yes,3,2,UA,United Airlines,121,DTW,Detroit,SAN,San Diego,America/Los_Angeles,North,N6,Delayed,15,100,35,15,1990,295,Boeing 737 MAX 8,Meal service,Yes,C,5
+WN122,yes,3,3,WN,Southwest Airlines,122,DTW,Detroit,TPA,Tampa,America/New_York,North,N28,On time,0,175,30,10,985,160,Boeing 737-700,Snacks & drinks,Yes,3,6
+DL123,yes,3,4,DL,Delta Air Lines,123,DTW,Detroit,DCA,Washington,America/New_York,McNamara,B27,On time,0,190,35,15,396,80,Airbus A220-300,Beverages & snacks,Yes,B,9
+B6124,yes,3,5,B6,JetBlue,124,DTW,Detroit,DFW,Dallas,America/Chicago,North,N17,On time,0,80,35,15,986,160,Embraer E190,Snacks & drinks,Yes,2,14
+AS125,yes,4,0,AS,Alaska Airlines,125,DTW,Detroit,LGA,New York,America/New_York,North,N3,On time,0,45,35,15,477,90,Boeing 737-900ER,Beverages & snacks,Yes,C,9
+AA126,yes,4,1,AA,American Airlines,126,DTW,Detroit,MSP,Minneapolis,America/Chicago,North,N12,Delayed,55,65,40,15,528,100,Airbus A321,Beverages & snacks,Yes,4,2
+UA127,yes,4,2,UA,United Airlines,127,DTW,Detroit,DCA,Washington,America/New_York,North,N24,Delayed,20,240,35,15,396,80,Boeing 737-900,Beverages & snacks,Yes,A,11
+WN128,yes,4,3,WN,Southwest Airlines,128,DTW,Detroit,BOS,Boston,America/New_York,North,N26,On time,0,75,30,10,632,115,Boeing 737-800,Beverages & snacks,Yes,C,3
+DL129,yes,4,4,DL,Delta Air Lines,129,DTW,Detroit,PHX,Phoenix,America/Phoenix,McNamara,B12,On time,0,60,35,15,1670,255,Airbus A321,Meal service,Yes,A,10
+B6130,yes,4,5,B6,JetBlue,130,DTW,Detroit,DFW,Dallas,America/Chicago,North,N30,Boarding,0,27,35,15,986,160,Airbus A321,Snacks & drinks,Yes,A,2
+AS131,yes,5,0,AS,Alaska Airlines,131,DTW,Detroit,LAS,Las Vegas,America/Los_Angeles,North,N14,On time,0,125,35,15,1750,265,Boeing 737-800,Meal service,Yes,4,1
+AA132,yes,5,1,AA,American Airlines,132,DTW,Detroit,CLT,Charlotte,America/New_York,North,N22,On time,0,75,40,15,535,100,Airbus A319,Beverages & snacks,Yes,B,6
+UA133,yes,5,2,UA,United Airlines,133,DTW,Detroit,SFO,San Francisco,America/Los_Angeles,North,N30,Delayed,30,70,35,15,2081,310,Airbus A320,Meal service,Yes,4,10
+WN134,yes,5,3,WN,Southwest Airlines,134,DTW,Detroit,ATL,Atlanta,America/New_York,North,N22,On time,0,80,30,10,594,110,Boeing 737-800,Beverages & snacks,No,A,7
+DL135,yes,5,4,DL,Delta Air Lines,135,DTW,Detroit,RDU,Raleigh,America/New_York,McNamara,A28,On time,0,155,35,15,510,95,Airbus A321,Beverages & snacks,Yes,B,5
+B6136,yes,5,5,B6,JetBlue,136,DTW,Detroit,MCO,Orlando,America/New_York,North,N25,Delayed,55,155,35,15,962,160,Airbus A321,Snacks & drinks,Yes,1,9
+DL312,no,,,DL,Delta Air Lines,312,DTW,Detroit,SAN,San Diego,America/Los_Angeles,McNamara,C4,Final call,0,18,35,15,1990,295,Airbus A321,Meal service,Yes,2,2
+DL448,no,,,DL,Delta Air Lines,448,DTW,Detroit,IAH,Houston,America/Chicago,McNamara,B39,On time,0,210,35,15,1076,175,Airbus A220-300,Snacks & drinks,Yes,3,6
+DL581,no,,,DL,Delta Air Lines,581,DTW,Detroit,AUS,Austin,America/Chicago,McNamara,A27,On time,0,165,35,15,1190,190,Boeing 737-900,Snacks & drinks,Yes,3,9
+DL626,no,,,DL,Delta Air Lines,626,DTW,Detroit,LAX,Los Angeles,America/Los_Angeles,McNamara,C36,On time,0,215,35,15,1979,295,Boeing 757-300,Meal service,No,3,4
+DL739,no,,,DL,Delta Air Lines,739,DTW,Detroit,DEN,Denver,America/Denver,McNamara,C31,On time,0,130,35,15,1123,180,Boeing 757-300,Snacks & drinks,Yes,B,3
+DL852,no,,,DL,Delta Air Lines,852,DTW,Detroit,MIA,Miami,America/New_York,McNamara,A12,Final call,0,21,35,15,1145,185,Airbus A321,Snacks & drinks,Yes,A,6
+AA215,no,,,AA,American Airlines,215,DTW,Detroit,LGA,New York,America/New_York,North,N22,Delayed,55,75,40,15,477,90,Airbus A321,Beverages & snacks,Yes,4,8
+AA337,no,,,AA,American Airlines,337,DTW,Detroit,BNA,Nashville,America/Chicago,North,N22,On time,0,115,40,15,461,90,Airbus A319,Beverages & snacks,No,C,12
+AA459,no,,,AA,American Airlines,459,DTW,Detroit,PHL,Philadelphia,America/New_York,North,N8,Final call,0,23,40,15,453,90,Airbus A319,Beverages & snacks,Yes,B,14
+AA562,no,,,AA,American Airlines,562,DTW,Detroit,ORD,Chicago,America/Chicago,North,N15,On time,0,155,40,15,235,60,Airbus A319,Beverages & snacks,Yes,D,13
+AA684,no,,,AA,American Airlines,684,DTW,Detroit,SEA,Seattle,America/Los_Angeles,North,N21,Delayed,20,110,40,15,1925,290,Boeing 737-800,Meal service,Yes,1,6
+AA791,no,,,AA,American Airlines,791,DTW,Detroit,JFK,New York,America/New_York,North,N23,Boarding,0,39,40,15,483,95,Boeing 737-800,Beverages & snacks,Yes,3,2
+UA218,no,,,UA,United Airlines,218,DTW,Detroit,SLC,Salt Lake City,America/Denver,North,N24,On time,0,215,35,15,1445,225,Airbus A320,Snacks & drinks,Yes,2,1
+UA342,no,,,UA,United Airlines,342,DTW,Detroit,TPA,Tampa,America/New_York,North,N10,On time,0,230,35,15,985,160,Boeing 737 MAX 8,Snacks & drinks,Yes,C,7
+UA467,no,,,UA,United Airlines,467,DTW,Detroit,DCA,Washington,America/New_York,North,N26,On time,0,210,35,15,396,80,Boeing 737 MAX 8,Beverages & snacks,Yes,2,2
+UA573,no,,,UA,United Airlines,573,DTW,Detroit,MSP,Minneapolis,America/Chicago,North,N11,On time,0,165,35,15,528,100,Boeing 737 MAX 8,Beverages & snacks,Yes,1,12
+UA698,no,,,UA,United Airlines,698,DTW,Detroit,SEA,Seattle,America/Los_Angeles,North,N29,Delayed,55,110,35,15,1925,290,Airbus A320,Meal service,Yes,A,6
+UA824,no,,,UA,United Airlines,824,DTW,Detroit,LAS,Las Vegas,America/Los_Angeles,North,N7,On time,0,165,35,15,1750,265,Boeing 737 MAX 8,Meal service,Yes,D,7
+WN225,no,,,WN,Southwest Airlines,225,DTW,Detroit,MCO,Orlando,America/New_York,North,N6,On time,0,215,30,10,962,160,Boeing 737 MAX 8,Snacks & drinks,Yes,3,6
+WN351,no,,,WN,Southwest Airlines,351,DTW,Detroit,MIA,Miami,America/New_York,North,N1,On time,0,95,30,10,1145,185,Boeing 737-700,Snacks & drinks,Yes,1,14
+WN476,no,,,WN,Southwest Airlines,476,DTW,Detroit,TPA,Tampa,America/New_York,North,N10,On time,0,160,30,10,985,160,Boeing 737-700,Snacks & drinks,Yes,4,3
+WN582,no,,,WN,Southwest Airlines,582,DTW,Detroit,DFW,Dallas,America/Chicago,North,N16,On time,0,145,30,10,986,160,Boeing 737-700,Snacks & drinks,No,2,7
+WN607,no,,,WN,Southwest Airlines,607,DTW,Detroit,SLC,Salt Lake City,America/Denver,North,N21,On time,0,140,30,10,1445,225,Boeing 737-700,Snacks & drinks,Yes,D,2
+WN733,no,,,WN,Southwest Airlines,733,DTW,Detroit,CLT,Charlotte,America/New_York,North,N27,On time,0,120,30,10,535,100,Boeing 737-800,Beverages & snacks,Yes,D,10
+B6241,no,,,B6,JetBlue,241,DTW,Detroit,SFO,San Francisco,America/Los_Angeles,North,N25,On time,0,65,35,15,2081,310,Airbus A320,Meal service,Yes,A,5
+B6368,no,,,B6,JetBlue,368,DTW,Detroit,RDU,Raleigh,America/New_York,North,N14,Delayed,15,160,35,15,510,95,Embraer E190,Beverages & snacks,Yes,B,12
+B6494,no,,,B6,JetBlue,494,DTW,Detroit,PHL,Philadelphia,America/New_York,North,N6,Delayed,25,160,35,15,453,90,Airbus A320,Beverages & snacks,Yes,4,14
+B6517,no,,,B6,JetBlue,517,DTW,Detroit,ORD,Chicago,America/Chicago,North,N27,Delayed,20,190,35,15,235,60,Embraer E190,Beverages & snacks,Yes,3,8
+B6659,no,,,B6,JetBlue,659,DTW,Detroit,ATL,Atlanta,America/New_York,North,N9,Delayed,40,195,35,15,594,110,Airbus A321,Beverages & snacks,Yes,B,5
+B6782,no,,,B6,JetBlue,782,DTW,Detroit,JFK,New York,America/New_York,North,N9,Boarding,0,30,35,15,483,95,Airbus A320,Beverages & snacks,Yes,A,4
+AS253,no,,,AS,Alaska Airlines,253,DTW,Detroit,PHX,Phoenix,America/Phoenix,North,N18,On time,0,90,35,15,1670,255,Boeing 737-800,Meal service,Yes,D,11
+AS379,no,,,AS,Alaska Airlines,379,DTW,Detroit,DEN,Denver,America/Denver,North,N18,On time,0,50,35,15,1123,180,Boeing 737 MAX 9,Snacks & drinks,Yes,C,6
+AS405,no,,,AS,Alaska Airlines,405,DTW,Detroit,LGA,New York,America/New_York,North,N30,On time,0,200,35,15,477,90,Boeing 737 MAX 9,Beverages & snacks,Yes,4,7
+AS538,no,,,AS,Alaska Airlines,538,DTW,Detroit,BNA,Nashville,America/Chicago,North,N2,On time,0,150,35,15,461,90,Boeing 737-900ER,Beverages & snacks,Yes,1,5
+AS664,no,,,AS,Alaska Airlines,664,DTW,Detroit,IAH,Houston,America/Chicago,North,N5,On time,0,125,35,15,1076,175,Boeing 737-900ER,Snacks & drinks,Yes,C,14
+AS771,no,,,AS,Alaska Airlines,771,DTW,Detroit,BOS,Boston,America/New_York,North,N1,Delayed,25,165,35,15,632,115,Boeing 737-800,Beverages & snacks,Yes,2,11
